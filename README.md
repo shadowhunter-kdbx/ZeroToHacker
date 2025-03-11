@@ -1,42 +1,45 @@
 # ZeroToHacker - A Complete Guide to Hacking
 
-**ZeroToHacker** is a comprehensive guide for anyone looking to learn hacking, offering a foundational understanding of various domains in cybersecurity. Whether you're a beginner or an aspiring hacker, this guide will help you build a solid foundation and progressively dive into advanced topics.
+<img src="https://media.tenor.com/XtsLE70nBk8AAAAC/flipper-zero-tesla-tesla-flipper.gif" alt="Flipper Zero Tesla GIF" width="400" />
+
+
+**ZeroToHacker** is a comprehensive guide for anyone looking to learn hacking, offering a foundational understanding of various domains in cybersecurity. Whether you're a beginner or an aspiring hacker, this guide will help you build a solid foundation and progressively dive into advanced topics. 🚀🔓
 
 ---
 
-## What Foundational Knowledge Should I Have for Learning to Hack?
+## What Foundational Knowledge Should I Have for Learning to Hack? 🤔
 
 A large part of "Hacking" on a continued basis is down to learning. This list is not meant to be an exhaustive supply of everything you need to learn. Generally in learning, it is best to go through each topic, and if you are presented with terms or topics that you don't know or understand, stop the training, and go learn the basics of whatever you are missing. This ensures a solid foundation of knowledge for your future learning and exploring.
 
 ---
 
-## Basic Foundation
+## Basic Foundation 🛠️
 
-- **Basics of Networking**
+- **Basics of Networking** 🌐
   - OSI model
   - Basics of common protocols/services (Ethernet, IPv4/IPv6, TCP/UDP, HTTP(s), SSH/Telnet, DNS, DHCP)
   - Local networking basics (NAT, Port forwarding, Subnetting, CIDR/VLSM, Switching, Spanning Tree, RIP/IGMP routing)
   
-- **Basics of Windows and Linux OSes**
+- **Basics of Windows and Linux OSes** 💻
   - Basics of Windows administration
   - Basics of Linux administration
   - Entry-level Linux distributions: Ubuntu, Fedora, Mint
   
-- **Beginner Programming** (Choose one: Python, C++, C#, Java)
+- **Beginner Programming** (Choose one: Python, C++, C#, Java) 🖥️
   - What are the strengths and weaknesses of your chosen language?
   - Basic data types
   - Basic control flow and logic
   - Basics of building/compiling/running code
   - Basic understanding of compiler error messages
   
-- **Basics of Application Troubleshooting**
+- **Basics of Application Troubleshooting** 🔧
   - Where are logs normally stored on Windows/Linux
   - How to read logs
   - How to read documentation
   - How to find the answer with Google when the documentation is awful and the logs are vague
   - General failure modes and what they mean (Stack overflow, Socket exceptions, FileNotFound exception, Invalid pointer, etc)
   
-- **Basics of Security**
+- **Basics of Security** 🔐
   - Basic cryptography (Public Key Encryption, Hashing, Block vs Stream ciphers, one-way vs two-way algorithms, etc)
   - Basic computer law (What is/is not a crime in your jurisdiction?)
   - Scanning and enumeration with nmap
@@ -46,7 +49,7 @@ A large part of "Hacking" on a continued basis is down to learning. This list is
 
 ---
 
-## Recommended Books
+## Recommended Books 📚
 
 - **Hackers - Steven Levy**  
   [Goodreads](https://www.goodreads.com/book/show/56829.Hackers)
@@ -62,7 +65,7 @@ A large part of "Hacking" on a continued basis is down to learning. This list is
 
 ---
 
-## Additional Knowledge Areas
+## Additional Knowledge Areas 🔍
 
 ### Advanced Networking
 
@@ -95,7 +98,7 @@ A large part of "Hacking" on a continued basis is down to learning. This list is
 
 ---
 
-## Rare Books on Hacking & Privacy
+## Rare Books on Hacking & Privacy 📖
 
 - **Underground – Suelette Dreyfus**  
   (History of early hackers, with Julian Assange’s contributions)  
@@ -119,12 +122,12 @@ A large part of "Hacking" on a continued basis is down to learning. This list is
 
 ---
 
-## Final Thoughts
+## Final Thoughts 🧠
 
-Learning hacking isn’t just about collecting books and tools—it’s about cultivating a mindset of curiosity, patience, and relentless problem-solving. The greatest hackers don’t just memorize exploits; they think in systems, patterns, and loopholes, seeing what others overlook. But knowledge without discipline is a double-edged sword—real mastery comes with understanding when and how to use it responsibly. The underground world is filled with those who lost their way, blinded by ego or recklessness. Stay sharp, stay legal, and never let the thrill of breaking barriers break you instead.
+Learning hacking isn’t just about collecting books and tools—it’s about cultivating a mindset of curiosity, patience, and relentless problem-solving. The greatest hackers don’t just memorize exploits; they think in systems, patterns, and loopholes, seeing what others overlook. But knowledge without discipline is a double-edged sword—real mastery comes with understanding when and how to use it responsibly. The underground world is filled with those who lost their way, blinded by ego or recklessness. Stay sharp, stay legal, and never let the thrill of breaking barriers break you instead. 🛡️
 
 ---
 
-## License
+## License 📜
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
